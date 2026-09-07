@@ -1,0 +1,72 @@
+
+*{
+    background-color: gray;
+}
+
+
+.box{
+    background-color: white;
+    border: 1px solid gray;
+    margin: 100px auto;
+    width: 800px;
+    height: 500px;
+}
+.img{
+    margin-top: 50px;
+    background-color: white;
+    height:400px
+ 
+}
+.box2{
+    background-color: white;
+    border: 1px solid white;
+    width: 370px;
+    margin-left: 420px;
+    margin-top: -430px;
+}
+.short{
+    background-color: white;
+    font-size:x-large ;
+}
+.star{
+    background-color: white;
+}
+.brand{
+    background-color: white;
+}
+.prize{
+    background-color: white;
+    border: 1px solid lightblue ;
+}
+.pp{
+    background-color: white;
+    color: orangered;
+    margin: 15px;
+}
+.mm{
+    background-color: white;
+    margin: 9px;
+}
+
+.buy{
+    background-color: blue;
+    color: white;
+    margin-left: 420px;
+    margin-top: 25px;
+    height: 50px;
+    width: 130px;
+    cursor: pointer;
+}
+.Add{
+    background-color: orangered;
+    color: white;
+    margin: 25px;
+    margin-top: 25px;
+    height: 50px;
+    width: 130px;
+    cursor: pointer
+}
+.hi{
+    background-color: white;
+    margin: 7px;
+}

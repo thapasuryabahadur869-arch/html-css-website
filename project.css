@@ -1,0 +1,807 @@
+* {
+  margin: 0px;
+  background-color: lightgray;
+}
+.navbar {
+  border: 1px solid orangered;
+  background-color: orangered;
+  height: 120px;
+}
+.b{
+  background-color: orangered;
+}
+.li {
+  background-color: orangered;
+  display: flex;
+  color: white;
+  margin-left: 550px;
+  gap: 30px;
+  cursor: pointer;
+  font-size: small;
+}
+.ul {
+  background-color: orangered;
+  display: flex;
+}
+
+.fa-sm{
+    height: 50px;
+    cursor: pointer;
+}
+.fa-2xl{
+  cursor: pointer;
+  margin-top: 15px;
+}
+.icon{
+  border: 1px solid lightcoral;
+  height: 34px;
+  width: 40px;
+  margin-top: -35.5px;
+  margin-left: 635px;
+  background-color: lightcoral;
+  cursor: pointer;
+}
+.icons{
+  border: 1px solid orangered;
+  background-color: orangered;
+  height: 33px;
+  width: 40px;
+  margin-top: -34px;
+  margin-left: 740px;
+}
+.surya {
+  text-align: end;
+  background-color: orangered;
+  color: white;
+  margin-top: -25px;
+  font-size: x-small;
+  width: 1140px;
+  cursor: pointer;
+}
+.ul:hover {
+  color: lightgray;
+}
+.img-cursor{
+  margin-left: 220px;
+  margin-top: 20px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.navbar form {
+  margin-top: -40px;
+  background-color: orangered;
+}
+
+.logo2{
+  margin: left -45px;
+  background-color: white;
+  margin-left: 280px;
+  height: 30px;
+  width: 350px;
+}
+.for {
+  margin: 150px;
+  font-size: x-large;
+  margin-top: 60px;
+}
+.box2 {
+  border: 1px solid white;
+  height: 400px;
+  width: 925px;
+  margin: 150px;
+  margin-top: -150px;
+  background-color: white;
+}
+.image {
+  height: 200px;
+}
+.a {
+  background-color: white;
+}
+.hello {
+  background-color: white;
+  margin: 10px 50px;
+  font-size: x-large;
+ 
+
+}
+.box {
+  border: 1px solid white;
+  height: 310px;
+  width: 200px;
+  margin: 30px;
+  background-color: white;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.describe {
+  background-color: white;
+}
+.prize {
+  background-color: white;
+  color: orangered;
+}
+.hi {
+  background-color: white;
+}
+.box:hover {
+  transform: translateY(3px);
+}
+.boxx {
+  border: 1px solid white;
+  height: 310px;
+  width: 200px;
+  margin: 250px;
+  margin-top: -341.5px;
+  background-color: white;
+  cursor: pointer;
+}
+.describe {
+  background-color: white;
+}
+.prize {
+  background-color: white;
+  color: orangered;
+}
+.hi {
+  background-color: white;
+}
+.boxx:hover {
+  transform: translateY(3px);
+}
+.boxa {
+  border: 1px solid white;
+  height: 310px;
+  width: 200px;
+  margin: 470px;
+  margin-top: -561.5px;
+  background-color: white;
+  cursor: pointer;
+}
+.describe {
+  background-color: white;
+}
+.prize {
+  background-color: white;
+  color: orangered;
+}
+.hi {
+  background-color: white;
+}
+.boxa:hover {
+  transform: translateY(3px);
+}
+.boxb {
+  border: 1px solid white;
+  height: 310px;
+  width: 200px;
+  margin: 690px;
+  margin-top: -781.5px;
+  background-color: white;
+  cursor: pointer;
+}
+.describe {
+  background-color: white;
+}
+.prize {
+  background-color: white;
+  color: orangered;
+}
+.hi {
+  background-color: white;
+}
+.boxb:hover {
+  transform: translateY(3px);
+}
+.just {
+  margin: 155px;
+  font-size: x-large;
+  margin-top: -70px;
+}
+.boxc {
+  border: 1px solid white;
+  height: 310px;
+  width: 200px;
+  margin: 155px;
+  margin-top: -155px;
+  background-color: white;
+  cursor: pointer;
+  padding: 10px, 5px;
+}
+.describe {
+  background-color: white;
+  margin-top: -5px;
+  margin-left: 1px;
+}
+.prize {
+  background-color: white;
+  color: orangered;
+}
+.hi {
+  background-color: white;
+}
+.boxc:hover {
+  transform: translateY(3px);
+}
+.image1 {
+  height: 200px;
+  background-color: white;
+}
+.boxd {
+  border: 1px solid white;
+  height: 323px;
+  width: 200px;
+  margin: 395px;
+  margin-top: -465px;
+  background-color: white;
+  cursor: pointer;
+  padding: 10px, 5px;
+}
+.describe {
+  background-color: white;
+  margin-top: -5px;
+  margin-left: 1px;
+}
+.prize {
+  background-color: white;
+  color: orangered;
+}
+.hi {
+  background-color: white;
+}
+.boxd:hover {
+  transform: translateY(3px);
+}
+.image1 {
+  height: 200px;
+  background-color: white;
+}
+.boxe {
+  border: 1px solid white;
+  height: 310px;
+  width: 200px;
+  margin: 635px;
+  margin-top: -719px;
+  background-color: white;
+  cursor: pointer;
+  padding: 10px, 5px;
+}
+.describe {
+  background-color: white;
+}
+.prize {
+  background-color: white;
+  color: orangered;
+}
+.hi {
+  background-color: white;
+}
+.boxe:hover {
+  transform: translateY(3px);
+}
+.image3 {
+  height: 215px;
+  width: 200px;
+  background-color: white;
+}
+.boxf {
+  border: 1px solid white;
+  height: 310px;
+  width: 200px;
+  margin: 875px;
+  margin-top: -947px;
+  background-color: white;
+  cursor: pointer;
+  padding: 10px, 5px;
+}
+.describe {
+  background-color: white;
+}
+.prize {
+  background-color: white;
+  color: orangered;
+}
+
+.boxf:hover {
+  transform: translateY(3px);
+}
+.image2 {
+  height: 195px;
+  width: 180px;
+  background-color: white;
+}
+.boxg {
+  border: 1px solid white;
+  height: 310px;
+  width: 200px;
+  margin: 155px;
+  margin-top: -840px;
+  background-color: white;
+  cursor: pointer;
+  padding: 10px, 5px;
+}
+.describe {
+  background-color: white;
+}
+.prize {
+  background-color: white;
+  color: orangered;
+}
+
+.boxg:hover {
+  transform: translateY(3px);
+}
+.image2 {
+  height: 195px;
+  width: 180px;
+  background-color: white;
+}
+.boxh {
+  border: 1px solid white;
+  height: 310px;
+  width: 200px;
+  margin: 395px;
+  margin-top: -465px;
+  background-color: white;
+  cursor: pointer;
+  padding: 10px, 5px;
+}
+.describe {
+  background-color: white;
+}
+.prize {
+  background-color: white;
+  color: orangered;
+}
+
+.boxh:hover {
+  transform: translateY(3px);
+}
+.image22 {
+  height: 179px;
+  width: 180px;
+  background-color: white;
+}
+.boxi {
+  border: 1px solid white;
+  height: 310px;
+  width: 200px;
+  margin: 635px;
+  margin-top: -705px;
+  background-color: white;
+  cursor: pointer;
+  padding: 10px, 5px;
+}
+.describe {
+  background-color: white;
+}
+.prize {
+  background-color: white;
+  color: orangered;
+}
+.boxi:hover {
+  transform: translateY(3px);
+}
+.image22 {
+  height: 179px;
+  width: 180px;
+  background-color: white;
+}
+.boxj {
+  border: 1px solid white;
+  height: 310px;
+  width: 200px;
+  margin: 875px;
+  margin-top: -943px;
+  background-color: white;
+  cursor: pointer;
+  padding: 10px, 5px;
+}
+.describe {
+  background-color: white;
+}
+.prize {
+  background-color: white;
+  color: orangered;
+}
+.boxj:hover {
+  transform: translateY(3px);
+}
+.image12 {
+  height: 155px;
+  width: 180px;
+  background-color: white;
+}
+.AAA {
+  background-color: lightgray;
+  border: 1px solid blue;
+  height: 40px;
+  width: 220px;
+  cursor: pointer;
+  margin: 550px;
+  margin-top: -800px;
+  margin-left: 540px;
+}
+.ggg {
+  background-color: lightgray;
+  margin: 10px auto;
+  margin-left: 60px;
+  color: blue;
+  /* margin-top:; */
+}
+.AAAA {
+  border: 1px solid lightgray;
+  height: 50px;
+  width: 180px;
+  margin-top: -500px;
+  background-color: lightgray;
+  margin-left: 290px;
+}
+.BBBB {
+  height: 50px;
+  /* margin-left: 50px; */
+}
+.Happy {
+  margin-top: -45px;
+  background-color: lightgray;
+  margin-left: 55px;
+}
+.Download {
+  background-color: lightgray;
+  margin-left: 55px;
+}
+
+.CCCC {
+  border: 1px solid lightgray;
+  height: 50px;
+  width: 167px;
+  margin-left: 500px;
+  margin-top: -50px;
+  background-color: lightgray;
+  color: lightgray;
+  cursor: pointer;
+}
+.DDDD {
+  margin-left: 660px;
+  margin-top: -50px;
+  cursor: pointer;
+}
+.EEEE {
+  margin-left: 820px;
+  margin-top: -52px;
+  cursor: pointer;
+}
+.pay {
+  border: 1px solid lightgray;
+  height: 120px;
+  background-color: white;
+}
+.payment {
+  background-color: white;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.verified {
+  background-color: white;
+  margin-left: 500px;
+  margin-top: -20px;
+}
+.visa {
+  height: 40px;
+  margin-left: 50px;
+}
+.khalti {
+  height: 50px;
+  margin-left: 20px;
+}
+.esewa {
+  height: 40px;
+  margin-left: 20px;
+}
+.cash {
+  height: 40px;
+  margin-left: 20px;
+}
+.pci {
+  height: 50px;
+  margin-left: 98px;
+}
+
+.abc {
+  border: 1px solid lightgray;
+  width: 240px;
+  margin-left: 60px;
+}
+.explain {
+  opacity: 0.6;
+}
+.desc {
+  font-size: small;
+  opacity: 0.5;
+}
+.yyy {
+  opacity: 100px;
+  opacity: 0.7;
+}
+.vvv {
+  font-size: small;
+  opacity: 0.5;
+}
+.abc2 {
+  border: 1px solid lightgray;
+  width: 240px;
+  margin-left: 360px;
+  font-size: small;
+  margin-top: -455px;
+}
+.cde {
+  font-size: small;
+  opacity: 0.5;
+}
+.sss {
+  font-size: small;
+  opacity: 0.5;
+}
+.trand {
+  opacity: 0.7;
+}
+.www {
+  font-size: small;
+  opacity: 0.5;
+}
+.abc3 {
+  border: 1px solid lightgray;
+  width: 240px;
+  margin-left: 640px;
+  /* font-size: small; */
+  margin-top: -502px;
+}
+.top {
+  opacity: 0.7;
+}
+.new {
+  font-size: small;
+  opacity: 0.5;
+}
+.sam {
+  font-size: small;
+  opacity: 0.5;
+}
+.latest {
+  font-size: small;
+  opacity: 0.7;
+}
+.apple {
+  font-size: small;
+  opacity: 0.5;
+}
+.led {
+  font-size: small;
+  opacity: 0.7;
+}
+.saa {
+  font-size: small;
+  opacity: 0.5;
+}
+.summer {
+  font-size: small;
+  opacity: 0.7;
+}
+.air {
+  font-size: small;
+  opacity: 0.5;
+}
+.CAMERAS {
+  font-size: small;
+  opacity: 0.7;
+}
+.came {
+  font-size: small;
+  opacity: 0.5;
+}
+.latest1 {
+  font-size: small;
+  opacity: 0.7;
+}
+.ear {
+  font-size: small;
+  opacity: 0.5;
+}
+.abc4 {
+  border: 1px solid lightgray;
+  width: 240px;
+  margin-left: 940px;
+  margin-top: -732px;
+}
+.computer {
+  font-size: small;
+  opacity: 0.7;
+}
+.ram {
+  font-size: small;
+  opacity: 0.5;
+}
+.women {
+  font-size: small;
+  opacity: 0.7;
+}
+.cloth {
+  font-size: small;
+  opacity: 0.5;
+}
+.man {
+  font-size: small;
+  opacity: 0.7;
+}
+.fashion {
+  font-size: small;
+  opacity: 0.5;
+}
+.on {
+  font-size: small;
+  opacity: 0.7;
+}
+.store {
+  font-size: small;
+  opacity: 0.5;
+}
+.books {
+  font-size: small;
+  opacity: 0.7;
+}
+.items {
+  font-size: small;
+  opacity: 0.5;
+}
+.auto {
+  font-size: small;
+  opacity: 0.7;
+}
+.bike {
+  font-size: small;
+  opacity: 0.5;
+}
+.leading {
+  font-size: small;
+  opacity: 0.7;
+}
+.dell {
+  font-size: small;
+  opacity: 0.5;
+}
+.product {
+  font-size: small;
+  opacity: 0.7;
+}
+.vivo {
+  font-size: small;
+  opacity: 0.5;
+}
+.with {
+  font-size: small;
+  opacity: 0.7;
+}
+.singapore {
+  font-size: small;
+  opacity: 0.5;
+}
+.world {
+  font-size: small;
+  opacity: 0.7;
+}
+.spain {
+  font-size: small;
+  opacity: 0.5;
+}
+.country{
+  border: 1px solid white;
+  background-color: white;
+  height: 120px;
+  
+
+}
+.int{
+  background-color: white;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.countrys{
+  border: 1px solid white;
+  height: 95px;
+  background-color: white;
+  display: flex;
+  margin-top: -90px;
+  margin-left: 20px;
+  
+}
+.Nepal{
+  border: 1px solid white;
+  height: 40px;
+  width: 100px;
+   background-color: white;
+   margin-top: 10px;
+}
+.nepal{
+  height: 40px;
+  background-color: white;
+}
+.nep{
+  background-color: white;
+  margin-left: 50px;
+  margin-top: -30px;
+}
+.Bangladesh{
+  border: 1px solid white;
+  height: 40px;
+  width: 130px;
+   background-color: white;
+   margin-top: 10px;
+   margin-left: 15px;
+}
+.bangladesh{
+  height: 40px;
+}
+.bangal{
+  background-color: white;
+  margin-left: 50px;
+  margin-top: -30px;
+}
+.Lanka{
+  border: 1px solid white;
+  height: 40px;
+  width: 150px;
+   background-color: white;
+   margin-top: 10px;
+   margin-left: 25px;
+}
+.sri{
+  height: 40px;
+}
+.srilanka{
+  background-color: white;
+   margin-left: 50px;
+  margin-top: -30px;
+}
+.Myanmar{
+  border: 1px solid white;
+  height: 40px;
+  width: 150px;
+   background-color: white;
+   margin-top: 10px;
+
+}
+.myammar{
+  height: 40px;
+}
+.mya{
+  background-color: white;
+  margin-left: 50px;
+  margin-top: -30px;
+}
+/* .h{
+  border: 1px solid white ;
+  height: 40px;
+  display: flex;
+  width: 300px;
+  margin-left: 600px;
+  margin-top: -75px;
+} */
+.Facebook{
+  height: 40px;
+}
+.facebook{
+  height: 40px;
+}
+.Instagram{
+  height: 40px;
+}
+.instagram{
+  height: 40px;
+}
+.youtube{
+  height: 40px;
+}
+.Youtube{
+  height: 40px;
+}

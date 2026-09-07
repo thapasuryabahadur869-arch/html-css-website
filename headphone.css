@@ -1,0 +1,141 @@
+*{
+    background-color: gray;
+}
+
+
+.box{
+    background-color: white;
+    border: 1px solid gray;
+    margin: 100px auto;
+    width: 800px;
+    height: 500px;
+}
+.img{
+    margin-top: 50px;
+    height:400px
+ 
+}
+.box2{
+    background-color: white;
+    border: 1px solid white;
+    width: 370px;
+    margin-left: 420px;
+    margin-top: -430px;
+}
+.short{
+    background-color: white;
+    font-size:x-large ;
+}
+.star{
+    background-color: white;
+}
+.brand{
+    background-color: white;
+}
+.prize{
+    background-color: white;
+    border: 1px solid lightblue ;
+}
+.pp{
+    background-color: white;
+    color: orangered;
+    margin: 15px;
+}
+.mm{
+    background-color: white;
+    margin: 9px;
+}
+.size{
+    background-color: white;
+    font-size: x-large;
+}
+.XXL{
+    border: 1px solid ;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    cursor: pointer;
+    margin-top: -20px;
+    
+}
+.aa{
+    text-align: center;
+    margin-top: 10px;
+    background-color: white;
+}
+.XL{
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    cursor: pointer;
+    margin-left: 60px;
+    margin-top: -58px;
+  
+}
+.bb{
+    text-align: center;
+    margin-top: 10px;
+    background-color: white;
+}
+.S{
+    border: 1px solid ;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    cursor: pointer;
+    margin-left: 120px;
+    margin-top: -58px;
+}
+.cc{
+    text-align: center;
+    margin-top: 10px;
+    background-color: white;
+}
+.M{
+    border: 1px solid ;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    cursor: pointer;
+    margin-left: 180px;
+    margin-top: -58px;
+}
+.dd{
+    text-align: center;
+    margin-top: 10px;
+    background-color: white;
+}
+.L{
+    border: 1px solid ;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    cursor: pointer;
+    margin-left: 240px;
+    margin-top: -58px;
+    
+}
+.ee{
+    text-align: center;
+    margin-top: 10px;
+    background-color: white;
+}
+.buy{
+    background-color: blue;
+    color: white;
+    margin-left: 420px;
+    margin-top: 25px;
+    height: 50px;
+    width: 130px;
+    cursor: pointer;
+}
+.Add{
+    background-color: orangered;
+    color: white;
+    margin: 25px;
+    margin-top: 25px;
+    height: 50px;
+    width: 130px;
+    cursor: pointer
+}
